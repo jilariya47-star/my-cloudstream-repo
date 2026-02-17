@@ -1,6 +1,6 @@
 {
   "name": "Khushal's 4K Repo",
-  "description": "4KHDHub plugin માટે custom repo",
+  "description": "મારું custom 4KHDHub repo",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/jilariya47-star/cloudstream-4khdhub-plugin/main/plugins.json"
